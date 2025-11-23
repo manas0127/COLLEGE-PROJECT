@@ -1,8 +1,7 @@
 # Fuel Consumption & Trip Cost Calculator
 
 ## 📌 Project Overview
-
-This project is a **Fuel Consumption and Trip Cost Calculator** designed for **Transportation domain** and suitable for **beginner (1st semester CSE students)**. It helps users calculate:
+ It helps users calculate:
 
 * Fuel required for a trip
 * Total fuel cost
@@ -115,13 +114,3 @@ Enter price: 110
 * Export report as PDF
 
 ---
-
-## 👨‍💻 Author
-
-Created for academic learning by a beginner CSE student.
-
----
-
-## 📄 License
-
-This project is free to use for learning and educational purposes.
